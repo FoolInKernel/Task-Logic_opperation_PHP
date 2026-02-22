@@ -16,7 +16,7 @@ if (isset($_POST['ok'])) {
     }
 }
 
-include "../layout/body.php";
+include "layout/body.php" ;
 
 ?>
 <?php if ($showModal): ?>
