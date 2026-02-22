@@ -68,7 +68,11 @@
           <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body text-center">
-          <p class="fs-5">Ini adalah web cek diskon barang yang di pilih menggunakan logika AND</p>
+          <p class="fs-5">Ini adalah web cek diskon barang yang di pilih menggunakan logika AND 
+            <br>
+            !Catatan!
+            Pilih minimal 2 produk untuk mendapatkan diskon
+          </p>
         </div>
         <div class="modal-footer justify-content-center">
           <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Mulai</button>
