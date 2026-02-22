@@ -16,7 +16,7 @@ if (isset($_POST['ok'])) {
     }
 }
 
-include "./layout/body.php" ;
+include "/workspaces/Task-Logic_opperation_PHP/layout" ;
 
 ?>
 <?php if ($showModal): ?>
