@@ -51,16 +51,17 @@
       </div>
     </div>
 
+    <!-- Produk 3 -->
 <div class="item-produk">
         <div class="card h-100" style="width: 18rem">
           <div class="ratio ratio-1x1">
             <img
               class="card-img-top"
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vWwW5WTMDCr-uzPDNSk3aqX8zEBxzklryw&s"
+              src="https://p2-ofp.static.pub//fes/cms/2024/07/17/109vq5fdalv01w5jsu6vh35ncnk5jn890135.png"
               alt="Card image cap" />
           </div>
           <div class="card-body">
-            <p class="card-text">Laptop Lenovo ThinkPad</p>
+            <p class="card-text">Laptop Lenovo Thinkbook</p>
           </div>
         </div>
         <input type="checkbox" name="produk3" class="checkbox" />
