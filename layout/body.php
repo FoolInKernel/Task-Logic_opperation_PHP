@@ -84,7 +84,7 @@
           <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body text-center">
-          <p class="fs-5">Ini adalah web cek diskon barang yang di pilih menggunakan logika AND 
+          <p class="fs-5">Ini adalah web cek diskon barang yang di pilih menggunakan operation logic
             <br>
             !Catatan!
             Pilih minimal 2 produk untuk mendapatkan diskon
